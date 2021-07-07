@@ -1,1 +1,1 @@
-# sort-typescript
+# buble sort - typescript
